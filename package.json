@@ -1,0 +1,19 @@
+{
+  "name": "nirbhay",
+  "version": "1.0.0",
+  "description": "nirbhay MERN Stack Ecommerce application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ https://github.com/Nirbhay91/ecommerce.git"
+  },
+  "author": "Bereket Lemma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nirbhay91/ecommerce.git/issues"
+  },
+  "homepage": "https://github.com/Nirbhay91/ecommerce.git#readme"
+}
